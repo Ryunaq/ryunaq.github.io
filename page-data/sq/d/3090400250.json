@@ -1,0 +1,1 @@
+{"data":{"minimalBlogConfig":{"basePath":"/","blogPath":"/blog","postsPath":"content/posts","pagesPath":"content/pages","tagsPath":"/tags","externalLinks":[{"name":"Homepage","url":"https://ryunaq.github.io"}],"navigation":[{"title":"Blog","slug":"/blog"},{"title":"Readings","slug":"/readings"},{"title":"About","slug":"/about"}],"showLineNumbers":true,"showCopyButton":true}}}
